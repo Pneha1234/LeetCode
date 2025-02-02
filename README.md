@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Pneha1234/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Pneha1234/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pneha1234/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0268-missing-number](https://github.com/Pneha1234/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Pneha1234/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Pneha1234/LeetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Pneha1234/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0268-missing-number](https://github.com/Pneha1234/LeetCode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -44,17 +46,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Pneha1234/LeetCode/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/Pneha1234/LeetCode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Pneha1234/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Pneha1234/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Pneha1234/LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Pneha1234/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Pneha1234/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Pneha1234/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Pneha1234/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
