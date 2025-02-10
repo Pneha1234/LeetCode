@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Pneha1234/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Pneha1234/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Pneha1234/LeetCode/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/Pneha1234/LeetCode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Pneha1234/LeetCode/tree/master/0948-sort-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Pneha1234/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
