@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Pneha1234/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Pneha1234/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pneha1234/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Pneha1234/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Pneha1234/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Pneha1234/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0948-sort-an-array](https://github.com/Pneha1234/LeetCode/tree/master/0948-sort-an-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Pneha1234/LeetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Pneha1234/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Pneha1234/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Pneha1234/LeetCode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pneha1234/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Pneha1234/LeetCode/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/Pneha1234/LeetCode/tree/master/0948-sort-an-array) |
 ## Math
 |  |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Pneha1234/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Pneha1234/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Pneha1234/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Pneha1234/LeetCode/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/Pneha1234/LeetCode/tree/master/0948-sort-an-array) |
 ## Binary Search
@@ -90,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Pneha1234/LeetCode/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/Pneha1234/LeetCode/tree/master/0948-sort-an-array) |
 ## Recursion
 |  |
