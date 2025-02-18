@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pneha1234/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Pneha1234/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Pneha1234/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Pneha1234/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Pneha1234/LeetCode/tree/master/0169-majority-element) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Pneha1234/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Pneha1234/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Pneha1234/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Pneha1234/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Pneha1234/LeetCode/tree/master/0062-unique-paths) |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Pneha1234/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Pneha1234/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
