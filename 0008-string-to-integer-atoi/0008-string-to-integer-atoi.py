@@ -63,9 +63,6 @@ class Solution:
         # 5. Recursively parse digits (returns magnitude or clamped INT_MIN/INT_MAX)
         value = self.parseDigits(s, i, n, 0, sign)
 
-        # --------- DO NOT return early based on raw 'value' ---------
-        # Always apply the sign, then clamp.
-
         # 6. If parseDigits returned a clamped sentinel for negative overflow,
         #    it returns INT_MIN (already negative), so handle that:
         if value == self.INT_MIN:
