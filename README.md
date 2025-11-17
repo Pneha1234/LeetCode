@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/Pneha1234/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Pneha1234/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Pneha1234/LeetCode/tree/master/0062-unique-paths) |
+| [0172-factorial-trailing-zeroes](https://github.com/Pneha1234/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/Pneha1234/LeetCode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
