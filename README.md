@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/Pneha1234/LeetCode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Pneha1234/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pneha1234/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/Pneha1234/LeetCode/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/Pneha1234/LeetCode/tree/master/0062-unique-paths) |
 | [0172-factorial-trailing-zeroes](https://github.com/Pneha1234/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/Pneha1234/LeetCode/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/Pneha1234/LeetCode/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Pneha1234/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Pneha1234/LeetCode/tree/master/0050-powx-n) |
+| [1013-fibonacci-number](https://github.com/Pneha1234/LeetCode/tree/master/1013-fibonacci-number) |
 ## Combinatorics
 |  |
 | ------- |
@@ -156,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pneha1234/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Pneha1234/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
