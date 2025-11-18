@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0172-factorial-trailing-zeroes](https://github.com/Pneha1234/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/Pneha1234/LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Pneha1234/LeetCode/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/Pneha1234/LeetCode/tree/master/2050-count-good-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0021-merge-two-sorted-lists](https://github.com/Pneha1234/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Pneha1234/LeetCode/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/Pneha1234/LeetCode/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/Pneha1234/LeetCode/tree/master/2050-count-good-numbers) |
 ## Combinatorics
 |  |
 | ------- |
