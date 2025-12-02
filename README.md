@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Pneha1234/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Pneha1234/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0948-sort-an-array](https://github.com/Pneha1234/LeetCode/tree/master/0948-sort-an-array) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Pneha1234/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/Pneha1234/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Pneha1234/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Pneha1234/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Pneha1234/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/Pneha1234/LeetCode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Pneha1234/LeetCode/tree/master/0078-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Pneha1234/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Pneha1234/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
