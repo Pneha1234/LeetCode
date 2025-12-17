@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/Pneha1234/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Pneha1234/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Pneha1234/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/Pneha1234/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Pneha1234/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Pneha1234/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Pneha1234/LeetCode/tree/master/0268-missing-number) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Pneha1234/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0146-lru-cache](https://github.com/Pneha1234/LeetCode/tree/master/0146-lru-cache) |
 ## String Matching
 |  |
 | ------- |
@@ -184,4 +186,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Pneha1234/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Pneha1234/LeetCode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Pneha1234/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
