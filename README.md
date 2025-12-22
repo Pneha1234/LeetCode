@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Pneha1234/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/Pneha1234/LeetCode/tree/master/0547-number-of-provinces) |
 ## String
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Pneha1234/LeetCode/tree/master/0547-number-of-provinces) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Pneha1234/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Design
 |  |
@@ -194,4 +196,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Pneha1234/LeetCode/tree/master/0146-lru-cache) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Pneha1234/LeetCode/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Pneha1234/LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
