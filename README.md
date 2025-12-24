@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/Pneha1234/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0733-flood-fill](https://github.com/Pneha1234/LeetCode/tree/master/0733-flood-fill) |
 | [0948-sort-an-array](https://github.com/Pneha1234/LeetCode/tree/master/0948-sort-an-array) |
+| [0994-rotting-oranges](https://github.com/Pneha1234/LeetCode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Pneha1234/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Dynamic Programming
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/Pneha1234/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Pneha1234/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Pneha1234/LeetCode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Pneha1234/LeetCode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Pneha1234/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Two Pointers
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/Pneha1234/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Pneha1234/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Pneha1234/LeetCode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Pneha1234/LeetCode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Pneha1234/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Design
 |  |
