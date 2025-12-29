@@ -1,31 +1,33 @@
-from collections import deque
+
 
 class Solution:
     def isCycle(self, V, edges):
-        # Step 1: Build adjacency list
-        adj = [[] for _ in range(V)]
-        for u, v in edges:
+        # create a adj list
+        adj =[[] for _ in range(V)]
+        for u,v in edges:
             adj[u].append(v)
             adj[v].append(u)
-
-        # Step 2: Visited array
-        visited = [False] * V
-
-        # Step 3: BFS for each component
-        for start in range(V):
-            if not visited[start]:
-                queue = deque()
-                queue.append((start, -1))
-                visited[start] = True
-
-                while queue:
-                    node, parent = queue.popleft()
-
-                    for neighbor in adj[node]:
-                        if not visited[neighbor]:
-                            visited[neighbor] = True
-                            queue.append((neighbor, node))
-                        elif neighbor != parent:
-                            return True  # Cycle found
-
+        
+        # create a visited array
+        visited = [False] *V
+        
+        # create a dfs:
+        def dfs(node,parent):
+            visited[node]= True
+            
+            for neighbour in adj[node]:
+                if not visited[neighbour]:
+                    if dfs(neighbour, node):
+                        return True
+                elif neighbour != parent:
+                    return True
+            return False
+            
+        
+        # iterate over all the 
+        for i in range(V):
+            if not visited[i]:
+                if dfs(i,-1):
+                    return True
         return False
+                
