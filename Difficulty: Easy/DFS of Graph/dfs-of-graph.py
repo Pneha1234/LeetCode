@@ -1,21 +1,15 @@
 class Solution:
     def dfs(self, adj):
-        # adjacency list
-        # step 1: To find the length of graph
-        # number of vertices = length of adjacency list
-        V = len(adj)
-        visited_node = [False]*V
-        result =[]
-        
-        def dfs_recursion(node):
-            visited_node[node] = True
-            result.append(node)
-            
+        result = []
+        # code here
+        visited_array = [False] * len(adj)
+        def dfs_internal(node, visited_array):
             for neighbour in adj[node]:
-                if not visited_node[neighbour]:
-                    dfs_recursion(neighbour)
-            
-        # start DFS from vertex 0
-        dfs_recursion(0)
+                if not visited_array[neighbour]:
+                    visited_array[neighbour] = True
+                    result.append(neighbour)
+                    dfs_internal(neighbour, visited_array)
+        visited_array[0]=True
+        result.append(0)
+        dfs_internal(0, visited_array)
         return result
-        
