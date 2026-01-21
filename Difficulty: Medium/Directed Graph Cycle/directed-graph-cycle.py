@@ -1,38 +1,66 @@
+from collections import deque
 class Solution:
     def isCyclic(self, V, edges):
         # lets build adj list
-        adj = [[] for _ in range(V)]
+        # adj = [[] for _ in range(V)]
+        # for u,v in edges:
+        #     adj[u].append(v)
+        
+        # # lets build visited and path visited
+        # visited = [False]*V
+        # path_visited = [False]*V
+        
+        # #step 3: create a dfs
+        # # Mark node as visited
+        # # Mark node as part of current path
+        # # Visit neighbors
+        # # If neighbor already in path → cycle found
+        # # Backtrack (remove from path)
+        # def dfs(node):
+        #     visited[node] = True
+        #     path_visited[node] = True
+
+        #     for neighbour in adj[node]:
+        #         if not visited[neighbour]:
+        #             if dfs(neighbour):
+        #                 return True
+        #         elif path_visited[neighbour]:
+        #             return True
+
+        #     # Backtrack
+        #     path_visited[node] = False
+        #     return False
+        
+        # for i in range(V):
+        #     if not visited[i]:
+        #         if dfs(i):
+        #             return True
+        # return False
+        #Kahn's Algorithm
+        adj= [[] for _ in range(V)]
+        indegree = [0]*V
         for u,v in edges:
             adj[u].append(v)
+            indegree[v]+= 1
         
-        # lets build visited and path visited
-        visited = [False]*V
-        path_visited = [False]*V
-        
-        #step 3: create a dfs
-        # Mark node as visited
-        # Mark node as part of current path
-        # Visit neighbors
-        # If neighbor already in path → cycle found
-        # Backtrack (remove from path)
-        def dfs(node):
-            visited[node] = True
-            path_visited[node] = True
-
-            for neighbour in adj[node]:
-                if not visited[neighbour]:
-                    if dfs(neighbour):
-                        return True
-                elif path_visited[neighbour]:
-                    return True
-
-            # Backtrack
-            path_visited[node] = False
-            return False
-        
+        # push nodes with indegree 0
+        queue = deque()
         for i in range(V):
-            if not visited[i]:
-                if dfs(i):
-                    return True
-        return False
+            if indegree[i] ==0:
+                queue.append(i)
+        cnt = 0
+        # start bfs
+        while queue:
+            node = queue.popleft()
+            cnt +=1
+            
+            for neighbour in adj[node]:
+                indegree[neighbour] -= 1
+                if indegree[neighbour] == 0:
+                    queue.append(neighbour)
+        # If cnt < V → cycle exists
+        return cnt != V
+            
+        
+            
             
